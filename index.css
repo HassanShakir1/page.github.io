@@ -1,0 +1,42 @@
+.head{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 40px;
+    text-decoration: underline;
+}
+.log{
+    color: antiquewhite;
+    font-size: 20px;
+    border: solid 2px antiquewhite;
+    width: 350px;
+    margin: 40px;
+    float: left;
+}
+.h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.but{
+    background-color: burlywood;
+    margin-left: 90px;
+}
+.sign{
+    float: left;
+    color: antiquewhite;
+    font-size: 20px;
+    border: solid 2px antiquewhite;
+    width: 350px;
+    margin: 40px;
+    float: left;
+    margin-left: 250px;
+}
+.head2{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 40px;
+    text-decoration: underline;
+}
+.but2{
+    background-color: burlywood;
+    margin-left: 90px;
+}
