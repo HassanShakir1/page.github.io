@@ -40,3 +40,8 @@
     background-color: burlywood;
     margin-left: 90px;
 }
+body{
+    background: url(./black-background-with-focus-spot-light_1017-27230.avif);
+    background-size: cover;
+    height: 100%;
+}
